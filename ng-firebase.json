@@ -1,0 +1,18 @@
+
+{
+    "packageRules": [
+        {
+          "groupName": "Firebase",
+          "matchPackageNames": [
+            "@firebase/firestore",
+            "@google-cloud/firestore",
+            "firebase",
+            "firebase-admin",
+            "firebase-functions",
+            "@angular/fire"
+          ],
+          "matchUpdateTypes": ["major", "minor"],
+          "enabled": true
+        }
+      ]
+}

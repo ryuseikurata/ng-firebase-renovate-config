@@ -1,0 +1,5 @@
+{
+    "extends": [
+      "github>ryuseikurata/renovate-config:ng-firebase"
+    ]
+  }

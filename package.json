@@ -1,0 +1,17 @@
+{
+    "name": "ng-firebase-renovate-config",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "git@github.com:ryuseikurata/ng-firebase-renovate-config.git",
+    "author": "Shrek Kurata",
+    "license": "MIT",
+    "devDependencies": {},
+    "dependencies": {
+        "@angular/fire": "^6.1.4",
+        "@firebase/firestore": "^2.3.0",
+        "@google-cloud/firestore": "^4.11.1",
+        "firebase": "^8.6.1",
+        "firebase-admin": "^9.8.0",
+        "firebase-functions": "^3.14.0"
+    }
+}
